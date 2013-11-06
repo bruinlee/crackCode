@@ -19,3 +19,10 @@ class Queue{
     return null;
   }
 }
+
+//queue should have
+//enqueue(), dequeue(),
+//front() return the front element
+//is-empty()
+//is-full()
+//get-size()

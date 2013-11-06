@@ -14,3 +14,8 @@ class Stack{
     top = t;
   }
 }
+
+
+//stack should have
+//push, pop, top(return top item), is-empty(), is-full(), get-size()
+//
